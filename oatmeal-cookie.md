@@ -1,6 +1,6 @@
 ## Thin & chewy oatmeal cookies
 
-### 1. Sift together
+### 1. sift together
 - 180 g all-purpose flour
 - 30 g whole wheat flour
 - 1 t baking soda
@@ -11,4 +11,9 @@
 - 220 g light brown sugar
 - 2 eggs
 
-### 3. 
+### 3. fold and chill
+- fold in flour from step 1
+- add ~1c quick 1-min oats
+- put in fridge for ~1 hour
+
+

@@ -16,4 +16,7 @@
 - add ~1c quick 1-min oats
 - put in fridge for ~1 hour
 
-
+### 4. bake
+- oven at 325
+- 1 T balls of dough 2" apart
+- 14-16 minutes

@@ -20,3 +20,5 @@
 - oven at 325
 - 1 T balls of dough 2" apart
 - 14-16 minutes
+
+![clean-bowls all finished](good-times.png)
